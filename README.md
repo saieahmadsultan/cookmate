@@ -112,4 +112,4 @@ flutter run
 **Saie Ahmad**
 Flutter Mobile App Developer
 📧 ahmadsultaniswl@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad)
+🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad-sultan)
