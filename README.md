@@ -95,7 +95,7 @@ Recipe images use a `Hero` widget shared between the `RecipeCard` and the Recipe
 
 ```bash
 # Clone the repo
-git clone https://github.com/ahmadsultaniswl-stack/cookmate.git
+git clone https://github.com/saieahmadsultan/cookmate.git
 cd cookmate
 
 # Install dependencies
@@ -109,7 +109,8 @@ flutter run
 
 ## 👤 Author
 
-**Saie Ahmad**
+**Saie Ahmad Sultan**
 Flutter Mobile App Developer
 📧 ahmadsultaniswl@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad-sultan)
+🐙 [GitHub](https://github.com/saieahmadsultan)
